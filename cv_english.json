@@ -1,0 +1,192 @@
+{
+  "basics": {
+    "name": "José Miguel Rivas",
+    "label": "Full-Stack developer",
+    "image": "/me.webp",
+    "email": "josemiguelrivas1993@gmail.com",
+    "phone": "+5493815557165",
+    "url": "",
+    "summary": "Hello, I'm a programmer graduated from UTN-FRT, and my journey in this field has been mostly self-taught, which has allowed me to explore and learn constantly. I'm always seeking new challenges to continue improving my skills and knowledge, both in frontend and backend technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "4000",
+      "city": "San Miguel de Tucumán",
+      "countryCode": "ES",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "José Rivas",
+        "url": "https://www.linkedin.com/in/jos%C3%A9-rivas-342814301/"
+      },
+      
+      
+      {
+        "network": "GitHub",
+        "username": "BytesJotaeme",
+        "url": "https://github.com/bytesjotaeme"
+      }
+    ]
+  },
+  
+  "education": [{
+    "institution": "Universitad Tecnológica Nacional",
+    "url": "https://www.utn.edu.ar/es/",
+    "area": "Tecnicatura Universitaria en Programación",
+    "studyType": "Universitario",
+    "startDate": "2022-03-01",
+    "endDate": "2023-12-01",
+    "score": "2.0"
+    
+  },
+  {
+    "institution": "Universitad Tecnológica Nacional",
+    "url": "https://www.utn.edu.ar/es/",
+    "area": "Ingeniería Mecánica",
+    "studyType": "Universitario",
+    "startDate": "2017-03-01",
+    "endDate": "2020- 03-01",
+    "score": "3.5"
+  }],
+  
+  "certificates": [{
+    "name": "Back End Development and APIse",
+    "date": "2024-02-05",
+    "issuer": "Freecodecamp",
+    "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/"
+  }],
+  
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "A2"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    
+    {
+      "name": "Blog_builder",
+      "isActive": true,
+      "description": "administrador de blogs desarrollado con React.js y Next.js, con integración de Firebase.",
+      "highlights": [
+        "Te invito a verlo"
+      ],
+      "url": "https://",
+      "github": "https://github.com/bytesjotaeme/Blog_React_Next.js_Firebase"
+    },
+    {
+      "name": "TailwindCSS",
+      "isActive": true,
+      "description": "Aprende TailwindCSS con esté proyecto web utilizando React, Next.js y TailwindCSS.",
+      "highlights": [
+        "100% gratuito"
+      ],
+      "url": "https://",
+      "github": "https://github.com/bytesjotaeme/Aprende_TailwindCSS"
+    },
+    {
+      "name": "CuevanaMaster",
+      "description": "Es un clon de Cuevana. Construido con Vite y utiliza la base de datos de themoviedatabase para obtener información sobre películas y series.",
+      "highlights": [
+        "Con fines demostrativos"
+      ],
+      "url": "https:",
+      "github": "https://github.com/bytesjotaeme/Cloen-enReact"
+    }
+  ]
+}
