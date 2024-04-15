@@ -166,7 +166,7 @@
       "highlights": [
         "Te invito a verlo"
       ],
-      "url": "https://",
+      "url": "https://blogbuilderbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Blog_React_Next.js_Firebase"
     },
     {
@@ -176,7 +176,7 @@
       "highlights": [
         "100% gratuito"
       ],
-      "url": "https://",
+      "url": "https://tailwindcssbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Aprende_TailwindCSS"
     },
     {
@@ -187,6 +187,16 @@
       ],
       "url": "https:",
       "github": "https://github.com/bytesjotaeme/Cloen-enReact"
+    },
+    {
+      "name": "DolarMaster",
+      "isActive": true,
+      "description": "Consume la API de DolarAPI para obtener información actualizada sobre el precio del dólar en Argentina. Realizada con Astro, Tailwind.",
+      "highlights": [
+        "Dolar hoy"
+      ],
+      "url": "https://dolarmasterbytesjotaeme.netlify.app/",
+      "github": "https://github.com/bytesjotaeme/Argentina-Dolar"
     }
   ]
 }
