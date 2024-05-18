@@ -177,15 +177,18 @@
         "100% gratuito"
       ],
       "url": "https://tailwindcssbytesjotaeme.netlify.app/",
-      "github": "https://github.com/bytesjotaeme/Aprende_TailwindCSS"
+      "github": "https://github.com/bytesjotaeme/TailwindCSS"
     },
     {
       "name": "CuevanaMaster",
+      "isActive": true,
+      
+      
       "description": "Es un clon de Cuevana. Construido con Vite y utiliza la base de datos de themoviedatabase para obtener información sobre películas y series.",
       "highlights": [
         "Con fines demostrativos"
       ],
-      "url": "https:",
+      "url": "https://cuevanabytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Cloen-enReact"
     },
     {
