@@ -5,8 +5,8 @@
     "image": "/me.webp",
     "email": "josemiguelrivas1993@gmail.com",
     "phone": "+5493815557165",
-    "url": "https://www.linkedin.com/in/jos%C3%A9-rivas-342814301/",
-    "summary": "¡Hola! Soy un apasionado programador graduado de la UTN-FRT, donde comencé mi viaje en el fascinante mundo del desarrollo de software. Mi camino en este campo ha sido mayormente autodidacta, lo que me ha permitido explorar y aprender constantemente. Siempre estoy en busca de nuevos desafíos para seguir mejorando mis habilidades y conocimientos, tanto en tecnologías frontend como backend.  Si bien mi portafolio actual puede no reflejar todos mis proyectos, me encanta trabajar con lenguajes como Python y PHP. Son herramientas poderosas.",
+    "url": "https://www.linkedin.com/in/jose-rivas-5411b72ba/",
+    "summary": "¡Hola! Soy un apasionado programador graduado de la UTN-FRT, donde comencé mi viaje en el fascinante mundo del desarrollo de software. Mi camino en este campo ha sido mayormente autodidacta, lo que me ha permitido explorar y aprender constantemente. Siempre estoy en busca de nuevos desafíos para seguir mejorando mis habilidades y conocimientos, tanto en tecnologías frontend como backend.  Si bien mi portafolio actual puede no reflejar todos mis proyectos, me encanta trabajar con lenguajes como Java y Angular. Son herramientas poderosas. https://github.com/bytesjotaeme y https://www.linkedin.com/in/jose-rivas-5411b72ba/",
     "location": {
       "address": "",
       "postalCode": "4000",
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "José Rivas",
-        "url": "https://www.linkedin.com/in/jos%C3%A9-rivas-342814301/"
+        "url": "https://www.linkedin.com/in/jose-rivas-5411b72ba/"
       },
       
       {
@@ -139,6 +139,20 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Angular",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Backend"
+      ]
     }
   ],
   "languages": [
@@ -169,7 +183,7 @@
       "isActive": true,
       "description": "administrador de blogs desarrollado con React.js y Next.js, con integración de Firebase.",
       "highlights": [
-        "Te invito a verlo"
+        " JavaScript, React, Next.js y Firebase"
       ],
       "url": "https://blogbuilderbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Blog_React_Next.js_Firebase"
@@ -179,18 +193,21 @@
       "isActive": true,
       "description": "Aprende TailwindCSS con esté proyecto web utilizando React, Next.js y TailwindCSS.",
       "highlights": [
-        "100% gratuito"
+        "HTML y CSS"
       ],
       "url": "https://tailwindcssbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/TailwindCSS"
     },
     {
       "name": "CuevanaMaster",
+      "isActive": true,
+      
+      
       "description": "Es un clon de Cuevana. Construido con Vite y utiliza la base de datos de themoviedatabase para obtener información sobre películas y series.",
       "highlights": [
-        "Con fines demostrativos"
+        "React"
       ],
-      "url": "https:",
+      "url": "https://cuevanabytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Cloen-enReact"
     },
     {
@@ -198,10 +215,30 @@
       "isActive": true,
       "description": "Consume la API de DolarAPI para obtener información actualizada sobre el precio del dólar en Argentina. Realizada con Astro, Tailwind.",
       "highlights": [
-        "Dolar hoy"
+        "JavaScript y Astro"
       ],
       "url": "https://dolarmasterbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Argentina-Dolar"
+    },
+    {
+      "name": "Sistema de Estudiantes",
+      "isActive": true,
+      "description": "Este sistema facilita la gestión de la información de los estudiantes de manera eficiente, permitiendo realizar diversas acciones de mantenimiento de los registros estudiantiles.",
+      "highlights": [
+        "Python"
+      ],
+      "url": "https://github.com/bytesjotaeme/Sist.Estud./",
+      "github": "https://github.com/bytesjotaeme/Sist.Estud."
+    },
+    {
+      "name": "Administrador Médico",
+      "isActive": true,
+      "description": "La aplicación gestiona registros médicos con funcionalidades para crear, actualizar y visualizar datos de pacientes.",
+      "highlights": [
+        "Python"
+      ],
+      "url": "https://github.com/bytesjotaeme/AdministradorMedico.py",
+      "github": "https://github.com/bytesjotaeme/AdministradorMedico.py"
     }
   ]
 }

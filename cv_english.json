@@ -134,6 +134,20 @@
       "keywords": [
         "Web development", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Angular",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Backend"
+      ]
     }
   ],
   "languages": [
@@ -164,7 +178,7 @@
       "isActive": true,
       "description": "administrador de blogs desarrollado con React.js y Next.js, con integración de Firebase.",
       "highlights": [
-        "Te invito a verlo"
+        " JavaScript, React, Next.js y Firebase"
       ],
       "url": "https://blogbuilderbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Blog_React_Next.js_Firebase"
@@ -174,7 +188,7 @@
       "isActive": true,
       "description": "Aprende TailwindCSS con esté proyecto web utilizando React, Next.js y TailwindCSS.",
       "highlights": [
-        "100% gratuito"
+        "HTML y CSS"
       ],
       "url": "https://tailwindcssbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/TailwindCSS"
@@ -186,7 +200,7 @@
       
       "description": "Es un clon de Cuevana. Construido con Vite y utiliza la base de datos de themoviedatabase para obtener información sobre películas y series.",
       "highlights": [
-        "Con fines demostrativos"
+        "React"
       ],
       "url": "https://cuevanabytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Cloen-enReact"
@@ -196,10 +210,30 @@
       "isActive": true,
       "description": "Consume la API de DolarAPI para obtener información actualizada sobre el precio del dólar en Argentina. Realizada con Astro, Tailwind.",
       "highlights": [
-        "Dolar hoy"
+        "JavaScript y Astro"
       ],
       "url": "https://dolarmasterbytesjotaeme.netlify.app/",
       "github": "https://github.com/bytesjotaeme/Argentina-Dolar"
+    },
+    {
+      "name": "Sistema de Estudiantes",
+      "isActive": true,
+      "description": "Este sistema facilita la gestión de la información de los estudiantes de manera eficiente, permitiendo realizar diversas acciones de mantenimiento de los registros estudiantiles.",
+      "highlights": [
+        "Python"
+      ],
+      "url": "https://github.com/bytesjotaeme/Sist.Estud./",
+      "github": "https://github.com/bytesjotaeme/Sist.Estud."
+    },
+    {
+      "name": "Administrador Médico",
+      "isActive": true,
+      "description": "La aplicación gestiona registros médicos con funcionalidades para crear, actualizar y visualizar datos de pacientes.",
+      "highlights": [
+        "Python"
+      ],
+      "url": "https://github.com/bytesjotaeme/AdministradorMedico.py",
+      "github": "https://github.com/bytesjotaeme/AdministradorMedico.py"
     }
   ]
 }
